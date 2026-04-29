@@ -17,7 +17,7 @@ This project is a **demo redesign concept** for a restaurant website, focused on
 
 ## 🚀 Live Demo
 
-👉 [https://yourusername.github.io/hurvinek-demo/](https://amirhosseindehghanazar.github.io/hurvinek-demo/)
+👉 [https://AmirhosseinDehghanazar.github.io/hurvinek-demo/](https://amirhosseindehghanazar.github.io/hurvinek-demo/)
 
 ---
 
